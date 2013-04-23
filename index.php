@@ -1,1 +1,4 @@
-index
+inde
+
+
+Zmena indexu skuskax
